@@ -1,0 +1,6 @@
+version: '3'
+
+tasks:
+  clone-reference-material:
+    cmds:
+      - git clone https://github.com/id-Software/Enemy-Territory.git

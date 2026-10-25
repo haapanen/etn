@@ -1,0 +1,6 @@
+{
+  "bits": { "cursize": 31, "hex": "4be34dc12fd9d02bf9e6f184df44381826e6ec9d7fc6ec11e6252292244902" },
+  "connect": { "hex": "ffffffff636f6e6e6563742000354474b08b216cc7941002fbe3e270304edb0ec65f6c7670342c2b1c37ff9e301a4c1b66a660510a084398ef573807ac1136491a0c6dc90a" },
+  "encode": { "challenge": 956240540, "command": "print \"hi %there\"", "plain": "87cdc17706f55743696a1e4ff84d84e7c69ccddeb3417716b694bdb3b3f76ad83dbb3a0898f798270bbb44c408", "encoded": "87cdc17706f55743696a1e4fb9e848f7a2b8cb080cbea62fe70f5490b216f999127cddab53eea1421a7ae0842d" },
+  "checksum": [{ "n": 0, "key": -559038737, "value": -1550247111 }, { "n": 1, "key": -559038737, "value": 1351576885 }, { "n": 2, "key": -559038737, "value": 1151450888 }, { "n": 3, "key": -559038737, "value": 1739912072 }, { "n": 4, "key": -559038737, "value": -289128494 }, { "n": 5, "key": -559038737, "value": -507786260 }]
+}
